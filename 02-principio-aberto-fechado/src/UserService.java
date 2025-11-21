@@ -12,7 +12,7 @@ public class UserService {
     public List<User> findUsers(Specification<User> specification) {
 
         return database.stream()
-                .filter(specification::isSatisfieldBy)
+                .filter(specification::isSatisfiedBy)
                 .collect(Collectors.toList());
     }
 }
