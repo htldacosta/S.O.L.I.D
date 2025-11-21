@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/01-responsabilidade-unica/01-responsabilidade-unica.iml" filepath="$PROJECT_DIR$/01-responsabilidade-unica/01-responsabilidade-unica.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-principio-aberto-fechado/02-principio-aberto-fechado.iml" filepath="$PROJECT_DIR$/02-principio-aberto-fechado/02-principio-aberto-fechado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-liskov Substitution/03-liskov Substitution.iml" filepath="$PROJECT_DIR$/03-liskov Substitution/03-liskov Substitution.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/projetos-solid.iml" filepath="$PROJECT_DIR$/.idea/projetos-solid.iml" />
     </modules>
   </component>
