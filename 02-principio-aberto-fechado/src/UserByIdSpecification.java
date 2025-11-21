@@ -8,3 +8,4 @@ public class UserByIdSpecification implements Specification<User>{
         return id != null && id.equals(user.getId());
     }
 }
+
